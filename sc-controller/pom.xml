@@ -22,7 +22,7 @@
 		<jaxb>2.3.0</jaxb>
 		<httpclient>4.5.5</httpclient>
 		<logback>1.2.3</logback>
-		<junit>4.12</junit>
+		<junit>4.13.1</junit>
 	</properties>
 	
 	<dependencies>
