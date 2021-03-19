@@ -1,4 +1,4 @@
-LTE-B Session Controller
+Broadcast Session Controller
 ===========================
 Statement
 ---
