@@ -20,7 +20,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<java.version>1.8</java.version>
 		<jaxb>2.3.0</jaxb>
-		<httpclient>4.5.5</httpclient>
+		<httpclient>4.5.13</httpclient>
 		<logback>1.2.3</logback>
 		<junit>4.12</junit>
 	</properties>
